@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=al-swaiti&theme=dark&bg_color=ffffff,000000,2c0a07&title_color=fff&text_color=656565" />
+  <img src="https://github-readme-stats.vercel.app/api?username=al-swaiti&theme=dark&bg_color=fff,000000,2c0a07&title_color=fff&text_color=656565" />
 </p>
 
 **Languages and Tools:**
