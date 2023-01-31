@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&pause=1000&color=2E8B9C&width=435&lines=Hi+....+My+name+is+Abdallah+Alswiti+;You+Are+Welcome+!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&pause=1000&color=2E8B9C&width=435&lines=Hi+....+My+name+is+Abdallah+Alswiti+;You+Are+Welcome+!)]
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=al-swaiti&theme=dark&bg_color=fff,000000,2c0a07&title_color=fff&text_color=656565" />
 </p>
