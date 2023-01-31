@@ -3,29 +3,30 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=al-swaiti&theme=dark&bg_color=fff,000000,2c0a07&title_color=fff&text_color=656565" />
 </p>
-
-**Languages and Tools:**
-<p align="center">
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
-<a href="https://www.rust-lang.org/"> <img src="https://img.shields.io/badge/rust-d07f4f.svg?&style=for-the-badge&logo=rust&logoColor=white"/> </a>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/postgres-%23000000.svg?&style=for-the-badge&logo=postgres&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
-<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-</p>
+  <hr>
+  <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+  <br>
+  <p align="center">
+    <code><img title="C" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/c.svg"></code>
+    <code><img title="Python" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/python-original.svg"></code>
+    <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/javascript.svg"></code>
+    <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/problemSolving.png"></code>
+    <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/html5.svg"></code>
+    <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/css.svg"></code>
+    <code><img title="React" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/react-original.svg"></code>
+    <code><img title="Git" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/git-original.svg"></code>
+    <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/vscode.png"></code>
+    <code><img title="Microsoft Visual Studio" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/visualstudio.png"></code>
+    <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/jquery-original.svg"></code>
+    <code><img title="Java" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/java-original.svg"></code>
+    <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/json.svg"></code>
+    <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/github.svg"></code>
+    <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/mysql.svg"></code>
+    <code><img title="npm" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/npm.svg"></code>
+    <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/php.svg"></code>
+    <code><img title="Flask" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/flask.png"></code>
+  </p>
+  <hr>
 
 
 <p align="center">
