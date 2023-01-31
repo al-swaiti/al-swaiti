@@ -28,5 +28,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ray-x/ray-x/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/al-swaiti/al-swaiti/output/github-contribution-grid-snake.svg" />
 </p>
