@@ -1,10 +1,6 @@
 
 
-<style>
-p {
-  background-image: url('[img_girl.jpg](https://raw.githubusercontent.com/al-swaiti/al-swaiti/main/background.png)');
-}
-</style>
+
 
 
 <h2>Background Image</h2>
