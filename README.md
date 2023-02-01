@@ -1,7 +1,7 @@
 <head>
 <style>
 p {
-  background-image: url('background.png');
+  background-image: url('https://raw.githubusercontent.com/al-swaiti/al-swaiti/main/background.png');
 }
 </style>
 </head>
