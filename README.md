@@ -1,4 +1,8 @@
 ###  
+body.dark-mode {
+  background-color: #1a1919;
+  color: #999;
+}
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&center=true&vCenter=true&width=1000&lines=Hi+....+My+name+is+Abdallah+Alswiti+;You+Are+Welcome+!)](https://al-swaiti.github.io)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=al-swaiti&theme=dark&bg_color=fff,000000,2c0a07&title_color=fff&text_color=656565" />
