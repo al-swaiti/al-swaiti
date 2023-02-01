@@ -1,23 +1,4 @@
 
-
-
-
-
-<h2>Background Image</h2>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=al-swaiti&theme=dark&bg_color=fff,000000,2c0a07&title_color=fff&text_color=656565" />You can specify background images<br>
-for any visible HTML element.<br>
-In this example, the background image<br>
-is specified for a div element.<br>
-By default, the background-image<br>
-will repeat itself in the direction(s)<br>
-where it is smaller than the element<br>
-where it is specified. (Try resizing the<br>
-browser window to see how the<br>
-background image behaves.</p>
-
-
-
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&center=true&vCenter=true&width=1000&lines=Hi+....+My+name+is+Abdallah+Alswiti+;You+Are+Welcome+!)](https://al-swaiti.github.io)
  
 <p align="center">
