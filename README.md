@@ -1,4 +1,10 @@
-[![background](background.png)
+<head>
+<style>
+p {
+  background-image: url('background.jpg');
+}
+</style>
+</head>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&center=true&vCenter=true&width=1000&lines=Hi+....+My+name+is+Abdallah+Alswiti+;You+Are+Welcome+!)](https://al-swaiti.github.io)
  
 <p align="center">
@@ -33,4 +39,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/al-swaiti/al-swaiti/output/ocean.svg" />
 </p>
-</p>]
+</p>
