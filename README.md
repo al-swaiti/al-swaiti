@@ -5,7 +5,7 @@
 
 <h2>Background Image</h2>
 
-<p>You can specify background images<br>
+<p><img src="https://github-readme-stats.vercel.app/api?username=al-swaiti&theme=dark&bg_color=fff,000000,2c0a07&title_color=fff&text_color=656565" />You can specify background images<br>
 for any visible HTML element.<br>
 In this example, the background image<br>
 is specified for a div element.<br>
