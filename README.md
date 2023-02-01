@@ -1,12 +1,11 @@
 
-<head>
+
 <style>
 p {
   background-image: url('[img_girl.jpg](https://raw.githubusercontent.com/al-swaiti/al-swaiti/main/background.png)');
 }
 </style>
-</head>
-<body>
+
 
 <h2>Background Image</h2>
 
@@ -21,7 +20,6 @@ where it is specified. (Try resizing the<br>
 browser window to see how the<br>
 background image behaves.</p>
 
-</body>
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&center=true&vCenter=true&width=1000&lines=Hi+....+My+name+is+Abdallah+Alswiti+;You+Are+Welcome+!)](https://al-swaiti.github.io)
