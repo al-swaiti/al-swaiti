@@ -1,7 +1,7 @@
 <head>
 <style>
 p {
-  background-image: url('background.jpg');
+  background-image: url('background.png');
 }
 </style>
 </head>
