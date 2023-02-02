@@ -1,8 +1,8 @@
-<div style="background:url(https://raw.githubusercontent.com/al-swaiti/al-swaiti/main/background.png) ;height:1000 px;width:1000 px">hi</div>
+
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&background=000000&center=true&vCenter=true&width=1000&lines=Hi+....+My+name+is+Abdallah+Alswiti+;You+Are+Welcome+!)](https://al-swaiti.github.io)
- 
+ <div style="background:url(https://raw.githubusercontent.com/al-swaiti/al-swaiti/main/background.png) ;height:1000 px;width:1000 px">hi</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=al-swaiti&theme=tokyonight&bg_color=000,000000,2c0a07&title_color=fff&text_color=656565" />
 </p>
