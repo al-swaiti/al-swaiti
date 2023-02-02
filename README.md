@@ -36,5 +36,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/al-swaiti/al-swaiti/output/ocean.svg" />
 </p>
-</p>
+
 </div>
