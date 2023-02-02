@@ -1,8 +1,13 @@
+ <div style="background:url(https://raw.githubusercontent.com/al-swaiti/al-swaiti/main/background.png)">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&center=true&vCenter=true&width=1000&lines=Hi+....+My+name+is+Abdallah+Alswiti+;You+Are+Welcome+!)](https://al-swaiti.github.io)
+
+
+
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&background=000000&center=true&vCenter=true&width=1000&lines=Hi+....+My+name+is+Abdallah+Alswiti+;You+Are+Welcome+!)](https://al-swaiti.github.io)
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=al-swaiti&theme=dark&bg_color=fff,000000,2c0a07&title_color=fff&text_color=656565" />
+  <img src="https://github-readme-stats.vercel.app/api?username=al-swaiti&theme=tokyonight&bg_color=000,000000,2c0a07&title_color=fff&text_color=656565" />
 </p>
   <hr>
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -29,8 +34,9 @@
   </p>
   <hr>
 
-
+ [![Typing SVG](https://raw.githubusercontent.com/al-swaiti/al-swaiti/output/github-contribution-grid-snake-dark.svg)]
 <p align="center">
   <img src="https://raw.githubusercontent.com/al-swaiti/al-swaiti/output/ocean.svg" />
 </p>
 </p>
+</div>
