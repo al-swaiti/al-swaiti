@@ -32,7 +32,7 @@
   </p>
   <hr>
 
- [![Typing SVG](https://raw.githubusercontent.com/al-swaiti/al-swaiti/output/github-contribution-grid-snake-dark.svg)]
+ ![Typing SVG](https://raw.githubusercontent.com/al-swaiti/al-swaiti/output/github-contribution-grid-snake-dark.svg)
 <p align="center">
   <img src="https://raw.githubusercontent.com/al-swaiti/al-swaiti/output/ocean.svg" />
 </p>
