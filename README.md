@@ -1,4 +1,4 @@
- <div style="background-color: rgb(50, 50, 50);">
+<div style="background-color: rgb(50, 50, 50);">
 
 
 
@@ -36,5 +36,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/al-swaiti/al-swaiti/output/ocean.svg" />
 </p>
-
 </div>
