@@ -1,8 +1,5 @@
  <div style="background-color: rgb(50, 50, 50);">
 
-``python
-print("Yo!")
-``
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&background=000000&center=true&vCenter=true&width=1000&lines=Hi+....+My+name+is+Abdallah+Alswiti+;You+Are+Welcome+!)](https://al-swaiti.github.io)
