@@ -4,7 +4,7 @@
 print("Yo!")
 ``
 
-</div>
+
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&background=000000&center=true&vCenter=true&width=1000&lines=Hi+....+My+name+is+Abdallah+Alswiti+;You+Are+Welcome+!)](https://al-swaiti.github.io)
 <!--  <div style="background:background.png ;height:1000 px;width:1000 px">hi</div> -->
 <p align="center">
@@ -40,4 +40,4 @@ print("Yo!")
   <img src="https://raw.githubusercontent.com/al-swaiti/al-swaiti/output/ocean.svg" />
 </p>
 </p>
-
+</div>
