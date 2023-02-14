@@ -1,9 +1,8 @@
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="LYyywNb" data-user="Saramazal" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/Saramazal/pen/LYyywNb">
-  Navigation PageDesign/Lesson</a> by Sara Mazal Web (<a href="https://codepen.io/Saramazal">@Saramazal</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<iframe height="300" style="width: 100%;" scrolling="no" title="Mona Lisa with pure CSS" src="https://codepen.io/jaysalvat/embed/kazzOj?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/jaysalvat/pen/kazzOj">
+  Mona Lisa with pure CSS</a> by Jay Salvat (<a href="https://codepen.io/jaysalvat">@jaysalvat</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 <!-- Github Trophy -->
 <div align="center">
   <table>
