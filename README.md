@@ -37,3 +37,23 @@
   <img src="https://raw.githubusercontent.com/al-swaiti/al-swaiti/output/ocean.svg" />
 </p>
 </div>
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img align="center" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=iamverysimp1e&theme=radical&border_radius=10&date_format=j%2Fn%5B%2FY%5D"></a></td>
+    </tr>
+  </table>
+</div>
+
+<!-- Github Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamverysimp1e&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=radical"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&layout=compact&line_height=21&hide_border=true&theme=radical"/></a></td>
+    </tr>
+  </table>
+</div>
+
+</details>
+</div>
