@@ -4,7 +4,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=iamverysimp1e&theme=radical&border_radius=10&date_format=j%2Fn%5B%2FY%5D"></a></td>
+      <td><a href="#--------"><img align="center" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=al-swaiti&theme=radical&border_radius=10&date_format=j%2Fn%5B%2FY%5D"></a></td>
     </tr>
   </table>
 </div>
