@@ -2,6 +2,18 @@
 </p>
 
 
+<!-- Github Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamverysimp1e&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=radical"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&layout=compact&line_height=21&hide_border=true&theme=radical"/></a></td>
+    </tr>
+  </table>
+</div>
+
+</details>
+</div>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=40&pause=1000&color=32B6B0&background=000000&center=true&vCenter=true&width=1000&lines=Hi+....+My+name+is+Abdallah+Alswiti+;You+Are+Welcome+!)](https://al-swaiti.github.io)
 <!--  <div style="background:background.png ;height:1000 px;width:1000 px">hi</div> -->
 <p align="center">
