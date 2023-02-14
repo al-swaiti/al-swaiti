@@ -1,3 +1,9 @@
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="abdyPBw" data-user="isladjan" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/isladjan/pen/abdyPBw">
+  Parallax scroll animation</a> by isladjan (<a href="https://codepen.io/isladjan">@isladjan</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="zYLMbXo" data-editable="true" data-user="al-swaiti" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
 </p>
 <!-- Github Trophy -->
@@ -59,23 +65,4 @@
   <img src="https://raw.githubusercontent.com/al-swaiti/al-swaiti/output/ocean.svg" />
 </p>
 </div>
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=iamverysimp1e&theme=radical&border_radius=10&date_format=j%2Fn%5B%2FY%5D"></a></td>
-    </tr>
-  </table>
-</div>
 
-<!-- Github Stats -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=al-swaiti&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=radical"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-swaiti&layout=compact&line_height=21&hide_border=true&theme=radical"/></a></td>
-    </tr>
-  </table>
-</div>
-
-</details>
-</div>
