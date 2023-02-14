@@ -1,6 +1,13 @@
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="zYLMbXo" data-editable="true" data-user="al-swaiti" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
 </p>
-
+<!-- Github Trophy -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img align="center" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=iamverysimp1e&theme=radical&border_radius=10&date_format=j%2Fn%5B%2FY%5D"></a></td>
+    </tr>
+  </table>
+</div>
 <!-- Github Stats -->
 <div align="center">
   <table>
