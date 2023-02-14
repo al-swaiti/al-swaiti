@@ -1,11 +1,9 @@
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="abdyPBw" data-user="isladjan" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/isladjan/pen/abdyPBw">
-  Parallax scroll animation</a> by isladjan (<a href="https://codepen.io/isladjan">@isladjan</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="LYyywNb" data-user="Saramazal" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/Saramazal/pen/LYyywNb">
+  Navigation PageDesign/Lesson</a> by Sara Mazal Web (<a href="https://codepen.io/Saramazal">@Saramazal</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="zYLMbXo" data-editable="true" data-user="al-swaiti" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-</p>
 <!-- Github Trophy -->
 <div align="center">
   <table>
