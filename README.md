@@ -1,7 +1,18 @@
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="zYLMbXo" data-editable="true" data-user="al-swaiti" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
 </p>
 
+<!-- Github Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=al-swaiti&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=radical"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-swaiti&layout=compact&line_height=21&hide_border=true&theme=radical"/></a></td>
+    </tr>
+  </table>
+</div>
 
+</details>
+</div>
 
 
 
