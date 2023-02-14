@@ -1,29 +1,10 @@
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
-<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="LYpPWda" data-user="soufiane-khalfaoui-hassani" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-<!-- Github Trophy -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=al-swaiti&theme=radical&border_radius=10&date_format=j%2Fn%5B%2FY%5D"></a></td>
-    </tr>
-  </table>
-</div>
+
 <!-- Github Stats -->
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=al-swaiti&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=radical"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=al-swaiti&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=dark"/></a></td>
       <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-swaiti&layout=compact&line_height=21&hide_border=true&theme=radical"/></a></td>
     </tr>
   </table>
