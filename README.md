@@ -1,8 +1,4 @@
-<iframe height="300" style="width: 100%;" scrolling="no" title="Mona Lisa with pure CSS" src="https://codepen.io/jaysalvat/embed/kazzOj?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/jaysalvat/pen/kazzOj">
-  Mona Lisa with pure CSS</a> by Jay Salvat (<a href="https://codepen.io/jaysalvat">@jaysalvat</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="LYpPWda" data-user="soufiane-khalfaoui-hassani" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
 <!-- Github Trophy -->
 <div align="center">
   <table>
